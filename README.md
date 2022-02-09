@@ -52,7 +52,7 @@ URL para Postman: (GET) "https://angelocourse-javasb.herokuapp.com/users"</h1>
 </div>
 
 <p align="center">
-  👩‍💻  : <strong>Backend Java, PostgreSQL, Heroku, Postman.</strong>
+  👩‍💻 Technologies : <strong>Backend Java, PostgreSQL, Heroku, Postman.</strong>
 </p>
 
 <div align="center">
